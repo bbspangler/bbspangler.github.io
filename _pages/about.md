@@ -16,4 +16,4 @@ My name is Benjamin Spangler, and I am a student at [Colorado State University P
 
 My current research at Northwestern focuses on determining temperatures of gases near the center of our galaxy.
 
-![CIERA REU Logo]({{ base_path }}/images/logo_cierareu.png){:width="100"}
+
