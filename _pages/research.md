@@ -1,5 +1,5 @@
 ---
-permalink: /research/
+permalink: /nuresearch/
 title: "CIERA REU Research"
 author_profile: true
 ---
