@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Benjamin Spangler, Research"
+title                    : "Benjamin Spangler, Student"
 title_separator          : "-"
 name                     : &name "Benjamin Spangler"
 description              : &description "Research Assistant Professor and Zooniverse Director"
