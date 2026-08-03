@@ -16,13 +16,14 @@ My REU summer research project (Northwestern University, 2026) was focused on de
 Using column densities and data from the CO(J=2-1) and CO(J=3-2) lines a rotation temperature map was created to see part of the gasses that are hotter or colder than others.
 
 ## Presentations & Publication
-
-I presented initial results as a poster at the 209th Meeting of the American Astronomical Society: [Poster 156.02](https://ui.adsabs.harvard.edu/abs/2006AAS...20915602J/abstract).
-
-I completed additional analysis as part of an undergraduate honors thesis and presented the following poster at the 2007 Colby College Undergraduate Research Symposium:
-
-![2007 M82 PNe Research Poster]({{ base_path }}/images/m82pne_poster.png)
-
-Download: [PDF]({{ base_path }}/files/m82pne_poster.pdf)
-
-I published these results in [Johnson et al. 2009, ApJ, 697, 1138](https://dx.doi.org/10.1088/0004-637X/697/2/1138).
+<!--
+  I presented initial results as a poster at the 209th Meeting of the American Astronomical Society: [Poster 156.02](https://ui.adsabs.harvard.edu/abs/2006AAS...20915602J/abstract).
+  
+  I completed additional analysis as part of an undergraduate honors thesis and presented the following poster at the 2007 Colby College Undergraduate Research Symposium:
+  
+  ![2007 M82 PNe Research Poster]({{ base_path }}/images/m82pne_poster.png)
+  
+  Download: [PDF]({{ base_path }}/files/m82pne_poster.pdf)
+  
+  I published these results in [Johnson et al. 2009, ApJ, 697, 1138](https://dx.doi.org/10.1088/0004-637X/697/2/1138).
+-->
