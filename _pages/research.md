@@ -6,7 +6,7 @@ author_profile: true
 
 {% include toc %}
 {% include base_path %}
-
+![CIERA REU Logo]({{ base_path }}/images/logo_cierareu.png){:width="100"}
 ## Introduction
 
 My REU summer research project (Northwestern University, 2026) was focused on determining the temperatures of gases near the galactic center.
